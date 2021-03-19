@@ -1,0 +1,4 @@
+Pessoa
+Objeto
+Lugar
+Tempo
